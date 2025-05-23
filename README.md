@@ -1,5 +1,3 @@
-# AITRADING
-
 # AI Exchange Market App
 
 This is a full-stack web application featuring:
